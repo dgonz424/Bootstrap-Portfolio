@@ -1,0 +1,50 @@
+#profilepic {
+	height: 250px;
+	width: 200px;
+	margin-top: 50px;
+}
+
+h4 {
+	text-align: center;
+}
+
+p {
+	margin-top: 75px;
+	margin-left: 150px;
+}
+
+.panel-footer {
+	text-align: center;
+}
+
+.portfoliopics {
+	height: 125px;
+	width: 225px;
+}
+
+.prow {
+	padding: 42px;
+	margin: 42px;
+}
+
+.prow h5 {
+  position: absolute;
+  bottom: 10px;
+  margin-bottom: 0;
+  padding: 15px;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  line-height: 10px;
+  font-weight: 300;
+  background: black;
+  border-bottom: 0;
+}
+
+.btn {
+	background-color: green;
+}
+
+.btn:hover {
+	background-color: green;
+}
